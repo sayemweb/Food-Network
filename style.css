@@ -57,3 +57,38 @@ section{
       background-image: url(image/Frame\ 59.jpg);
       background-repeat: no-repeat;
 }
+
+.button{
+      text-decoration: none;
+      background-color: orange;
+      color:white;
+      font-weight: 800;
+      padding: 10px 40px;
+      border-style: solid;
+      border-color:black;
+      border-width: 5px;
+      border-radius: 300px;
+}
+.about-me{
+      background-image: url(image/7.png);
+.Recipies h1{
+  text-align:center
+}
+*{
+      box-sizing: border-box;
+    
+}
+.colomun{
+      float: left;
+      width:33.33%;
+      padding: 5px;
+
+}
+.row{
+      content:"";
+      display: table;
+      clear: both;
+}
+.box-shadow{
+      box-shadow: 30px 30px;
+}
